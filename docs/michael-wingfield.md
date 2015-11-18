@@ -1,10 +1,14 @@
-# Name
+**Name:**
 Michael Wingfield
-# Where I'm from
+
+**Where I'm from:**
 Colorado
-# Favorite Food
+
+**Favorite Food:**
 Mac'n'Cheese
-# Hobby
+
+**Hobby:**
 Learning about stuff
-# Favorite Color
+
+**Favorite Color:**
 Green
