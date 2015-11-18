@@ -6,3 +6,5 @@ Colorado
 Mac'n'Cheese
 # Hobby
 Learning about stuff
+# Favorite Color
+Green
